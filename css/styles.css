@@ -1,0 +1,11 @@
+let doc=document.getELementByid(Example).add EventListener(submit)
+FormExecuted
+console.log(doc)
+FunctionFormExecuted(e)
+{
+    e.preventDefault();
+    letmyname=document.getElementById('name'),
+    letmyname=document.getElementById('password'),
+    value
+    console.log(myname)+"myname"+"mypassword"
+}
