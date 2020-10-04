@@ -12,6 +12,7 @@ salmaladha5@gmail.com
 ## known bugs
 None
 ## link to livesite on github pages
+https://github.com/salma2020-moringa/akan-s-names.git
 ## license 
 [MIT]
 copyright (C)2020
