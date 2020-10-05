@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+}
+.container.fluid{
+    padding: 3%;
+}
+.feauture.box{
+    text-align: center;
+    padding: 4.5%
+}
